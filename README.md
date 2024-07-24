@@ -1,3 +1,3 @@
 # School-database
 Database project for a school.
-Created for a Database elective course at FMI, Sofia University in 2021.
+Created for a Database elective course at FMI, Sofia University.
